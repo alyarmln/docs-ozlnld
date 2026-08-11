@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-p2kkqa.ninjabetcasino.co.uk/sitemap.xml
